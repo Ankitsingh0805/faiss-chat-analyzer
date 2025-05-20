@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot for analyzing documents with a conversational interface built with Streamlit, LangChain, FAISS, and Llama-2.
 
-![Document Analyzer]("Screenshot from 2025-05-20 18-40-51.png")
+![Document Analyzer](Screenshot%20from%202025-05-20%2018-40-51.png)
 
 ## 📋 Features
 
@@ -106,13 +106,13 @@ Optional arguments:
 ## 📊 Screenshots
 
 ### Main Interface
-![Main Interface]("Screenshot from 2025-05-20 18-40-51.png")
+![Main Interface](Screenshot%20from%202025-05-20%2018-40-51.png)
 
 ### Chatting with Documents
-![Chat Example]("Screenshot from 2025-05-20 18-09-02.png")
+![Chat Example](Screenshot%20from%202025-05-20%2018-09-02.png)
 
 ### Storing and downloading vector store
-![Performance Statistics]("Screenshot from 2025-05-20 18-07-44.png")
+![Performance Statistics](Screenshot%20from%202025-05-20%2018-07-44.png)
 
 ## 🔧 Advanced Configuration
 
